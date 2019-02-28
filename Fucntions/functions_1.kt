@@ -6,3 +6,6 @@ println(message)
 fun hello(name: String): String{
 return "Hello $name"
 }
+/*
+Basic functuin
+*/
