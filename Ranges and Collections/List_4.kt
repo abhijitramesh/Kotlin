@@ -6,4 +6,7 @@ var Mutable_array_list = array_list.toMutableList()
 Mutable_array_list.add("Friend")
 for (name in Mutable_array_list)
 println(name)
+
+
+
 }
